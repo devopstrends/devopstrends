@@ -45,4 +45,8 @@ gem 'rails_layout'
 #user interface
 gem 'zurb-foundation'
 
+gem 'foundation-rails'
 
+
+#Facebook graph gem to facebook posts
+gem 'fb_graph2'
